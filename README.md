@@ -11,6 +11,6 @@ am3287
 ## Favorite Professor
 abcdef
 ## EUID
-
+SDB0394
 ## Favorite Professor
-$Dr.Ko
+Dr.Ko
